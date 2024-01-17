@@ -2,7 +2,7 @@
 
 IP 51.250.94.252
 
-К серверу можно обратиться по адресу: https://api.damovies-explorer.nomoredomains.rocks
+К серверу можно было обратиться по адресу: https://api.damovies-explorer.nomoredomains.rocks
 
 `GET /users/me` - возвращает информацию о пользователе (email и имя)
 
@@ -17,3 +17,6 @@ IP 51.250.94.252
 `POST /signup` - создаёт пользователя с переданными в теле email, password и name
 
 `POST /signin` - проверяет переданные в теле почту и пароль и возвращает JWT
+____
+
+**Проект находится на доработке из-за смены сервера**
